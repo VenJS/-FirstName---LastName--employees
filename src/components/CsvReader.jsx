@@ -84,9 +84,9 @@ const CsvReader = () => {
               borderBottom: "1px solid black",
             }}
           >
-            <span>Employee ID #1</span>
-            <span>Employee ID #2</span>
-            <span>Project ID</span>
+            <span>Employee ID</span>
+            <span>DateFrom</span>
+            <span>DateTo</span>
             <span>Days worked</span>
           </div>
           <div
